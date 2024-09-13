@@ -1,0 +1,26 @@
+.mai1{
+    margin-top: 40px;
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    background-color: white;
+    border-radius: 1%;
+
+}
+.mdiv{
+    margin-left: 5%;
+    margin-top: 2%;
+    position: fixed;
+}
+#b1{
+    background-color: rgb(68, 165, 221);
+    border: none;
+    border-radius: 10%;
+    padding: 5px;
+}
+#b2{
+    border-width: 1px;
+    border-color: rgba(177, 177, 177, 0.418);
+    border-radius: 10%;
+    padding: 5px;
+}
